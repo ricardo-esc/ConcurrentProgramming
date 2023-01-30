@@ -13,3 +13,4 @@ The program is a simple text-based messaging system. CCHAT is very much inspired
 
 ## Amazed
 The program implements the parallel version of a sequential search algorithm, using the fork/join model. The goal of the search is finding a goal inside a maze taking advantage of parallelism. There's a character inside a maze and every time there's a possibility to go different ways, a new character is created so they can take different ways to find the goal. They way these characters are created is using the fork/join model. 
+Awesome ways to learn.
