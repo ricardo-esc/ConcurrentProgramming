@@ -16,3 +16,4 @@ The program implements the parallel version of a sequential search algorithm, us
 Awesome ways to learn.
 
 Commit 1: Example
+Commit 2: Example 2
